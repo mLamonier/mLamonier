@@ -20,7 +20,3 @@
 <div align="left">
 <p>
 <a href="mailto:mlamonier.dev@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
-</a>
-<a href="https://www.linkedin.com/in/miguel-lamonier-5b2567309/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-</div>
