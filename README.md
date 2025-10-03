@@ -1,5 +1,3 @@
-## Say "friend" and enter 🧙‍♂️👋
-
 <h3 align="center">
   Front-end Developer
 </h3>
