@@ -15,8 +15,3 @@
 </div>
 
 #
-
-<h3>Contact Me</h3>
-<div align="left">
-<p>
-<a href="mailto:mlamonier.dev@gmail.com">
