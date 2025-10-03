@@ -1,4 +1,4 @@
-## Hi there 👋
+## Say "friend" and enter 🧙‍♂️👋
 
 <h3 align="center">
   Front-end Developer
@@ -6,4 +6,4 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,react,nextjs,tailwind,aws,git,github,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,git,github&theme=dark" />
