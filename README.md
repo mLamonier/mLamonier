@@ -4,6 +4,6 @@
   Front-end Developer
 </h3>
 
-## &nbsp;My Stack
+## &nbsp;Technologies
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,git,github&theme=dark" />
