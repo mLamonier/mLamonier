@@ -1,8 +1,7 @@
 ## Olá! Diga "amigo" e entre! 🧙‍♂️
 
-- 🖼️ Trabalhando atualmente com front-end
-- 🚀 Estudando Next.js
-- ☕ Evitando doses pequenas de cafeína
+- 🖼️ Trabalhando atualmente como full stack
+- 🚀 Estudando Next.js, Prisma e IA
 
 ##
 
